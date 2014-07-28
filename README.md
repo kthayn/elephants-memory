@@ -1,4 +1,4 @@
-elephants-memory
+sinatra-practice
 ================
 
-Sinatra Notes app
+Learning Sinatra
